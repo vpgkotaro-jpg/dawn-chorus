@@ -2,7 +2,7 @@
 
 **Tune a superconducting qubit in 16 circuits by listening to its noise through a chirp.**
 
-[Watch the 90-second video](https://youtu.be/WQnv4FRHpKk)
+[Watch the video](https://youtu.be/ojg-jUiXYfo)
 
 A quantum computer regularly needs to know two things about each qubit: how far its frequency has drifted, and how long it stays coherent. A Ramsey scan measures both. Its usual evenly spaced delays alias, though: different frequency errors can produce identical data, so covering a wide range takes more circuits or a shorter, less precise scan.
 
